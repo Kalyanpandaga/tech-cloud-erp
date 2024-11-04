@@ -1,0 +1,35 @@
+.hero-slide {
+    height: 500px; 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+  
+  .hero-content {
+    margin-left: 2rem; /* Content padding from the left */
+    max-width: 500px; /* Limit the content width */
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: black;
+  }
+  
+  .hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    color: black;
+  }
+  
+  .hero-content .btn {
+    background-color: #ff6600; 
+    border: none;
+  }
+  
+  .hero-content .btn:hover {
+    background-color: #e65c00; 
+  }
+  

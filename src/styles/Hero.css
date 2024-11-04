@@ -1,0 +1,11 @@
+.hero-section {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .hero-section .hero-img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
